@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">inout - Transliteration</string>
+    <string name="enter_your_text_here">Enter your text here</string>
+    <string name="send_to">Send To</string>
+    <string name="blank_text">Blank text</string>
+
+    <string-array name="language_array">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Telugu</item>
+        <item>Assamese</item>
+        <item>Marathi</item>
+        <item>Tamil</item>
+        <item>Gujarati</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Odia</item>
+        <item>Punjabi</item>
+    </string-array>
+
+</resources>
